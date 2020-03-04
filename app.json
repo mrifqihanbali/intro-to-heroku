@@ -7,5 +7,6 @@
   "repository": "https://github.com/muhammad.hanbali@brave-hawk-6uwqb1.com/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
+
   ]
 }
